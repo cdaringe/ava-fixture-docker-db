@@ -23,5 +23,4 @@ test('some that needs a db!', async t => {
   t.is(Object.keys(containerData.HostConfig.PortBindings).length, 1, 'has host port exposed')
 })
 ```
-
-
+see the exported typescript typings or source for the simple additional APIs you can use in setup.

@@ -49,5 +49,15 @@
   "ava": {
     "babel": false,
     "compileEnhancements": false
-  }
+  },
+  "keywords": [
+    "ava",
+    "docker",
+    "test",
+    "context",
+    "database",
+    "postgres",
+    "node",
+    "typescript"
+  ]
 }
