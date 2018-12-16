@@ -48,8 +48,8 @@ export async function purgeContainer (container: Docker.Container) {
 export const db = {
   async setup<C> (
     ctx: C & DbContext,
-    userDbConfig?: DbContextDbConfig,
-    dockerodeConfig?: Docker.ContainerCreateOptions
+    userDbConfig?: Partial<DbContextDbConfig>,
+    dockerodeConfig?: Partial<Docker.ContainerCreateOptions>
   ): Promise<void> {
     const port = await freeport()
     const image =
