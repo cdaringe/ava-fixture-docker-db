@@ -1,7 +1,7 @@
 {
   "name": "ava-fixture-docker-db",
   "version": "0.0.0-semantic-release",
-  "description": "acquire a fresh database image attached to your test context",
+  "description": "acquire a fresh docker database container attached to your ava test context",
   "main": "src/fixture.js",
   "repository": "git@github.com:cdaringe/ava-fixture-docker-db.git",
   "author": "cdaringe <christopher.dieringer@gmail.com>",
