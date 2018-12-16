@@ -15,6 +15,7 @@
     "husky": "^1.2.1",
     "lint-staged": "^8.1.0",
     "prettier-standard": "^8.0.1",
+    "semantic-release": "^15.13.0",
     "typescript": "^3.2.2"
   },
   "dependencies": {
@@ -29,7 +30,8 @@
   "scripts": {
     "format": "prettier-standard '{src,test,scripts}/**/*.{js,jsx,ts,tsx}'",
     "test": "ava 'src/**/*.test.js'",
-    "build": "tsc"
+    "build": "tsc",
+    "semantic-release": "semantic-release"
   },
   "husky": {
     "hooks": {
