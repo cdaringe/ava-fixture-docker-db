@@ -7,12 +7,12 @@
   "author": "cdaringe <christopher.dieringer@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^1.0.1",
-    "husky": "^1.2.1",
-    "lint-staged": "^8.1.0",
-    "prettier-standard": "^8.0.1",
-    "semantic-release": "^15.13.0",
-    "typescript": "^3.2.2"
+    "ava": "1.0.1",
+    "husky": "1.2.1",
+    "lint-staged": "8.1.0",
+    "prettier-standard": "8.0.1",
+    "semantic-release": "15.13.0",
+    "typescript": "3.2.2"
   },
   "dependencies": {
     "dockerode": "^2",
