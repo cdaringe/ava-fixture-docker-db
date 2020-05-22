@@ -9,7 +9,7 @@
   "devDependencies": {
     "ava": "1.0.1",
     "husky": "4.2.5",
-    "lint-staged": "10.2.4",
+    "lint-staged": "10.2.6",
     "prettier-standard": "16.3.0",
     "semantic-release": "17.0.7",
     "typescript": "3.2.2"
