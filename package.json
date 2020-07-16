@@ -12,7 +12,7 @@
     "lint-staged": "10.2.11",
     "prettier-standard": "16.4.1",
     "semantic-release": "17.1.1",
-    "typescript": "3.2.2"
+    "typescript": "3.9.7"
   },
   "dependencies": {
     "dockerode": "^3.0.0",
