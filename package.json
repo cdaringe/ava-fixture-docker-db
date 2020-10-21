@@ -19,7 +19,7 @@
     "execa": "^1.0.0",
     "freeport": "^1",
     "lodash": "^4",
-    "@types/dockerode": "^2",
+    "@types/dockerode": "^3.0.0",
     "@types/execa": "^0",
     "@types/freeport": "^1",
     "@types/lodash": "^4"
