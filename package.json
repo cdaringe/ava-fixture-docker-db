@@ -22,7 +22,7 @@
     "@types/dockerode": "^3.0.0",
     "@types/execa": "^0",
     "@types/freeport": "^1",
-    "@types/lodash": "^4"
+    "@types/lodash": "^4.14.138"
   },
   "peerDependencies": {
     "ava": "*"
