@@ -11,7 +11,7 @@
     "husky": "7.0.2",
     "lint-staged": "11.1.2",
     "prettier-standard": "16.4.1",
-    "semantic-release": "17.4.7",
+    "semantic-release": "18.0.0",
     "typescript": "3.2.2"
   },
   "dependencies": {
