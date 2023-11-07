@@ -963,9 +963,9 @@
     "@types/node" "*"
 
 "@types/freeport@^1":
-  version "1.0.23"
-  resolved "https://registry.yarnpkg.com/@types/freeport/-/freeport-1.0.23.tgz#5d5190bceab58094939fcc8333129d57b64558a4"
-  integrity sha512-p6Wx1LisM0uLT1oPaFD/bxM2xD/CxwPaRjJMBQG3K3fhtSMaqDPn9vc7/AQiYDf9QnSaH1/slvx7ckoeF2RwNA==
+  version "1.0.24"
+  resolved "https://registry.yarnpkg.com/@types/freeport/-/freeport-1.0.24.tgz#6bbe61cf6bd9b62e345428cb3258e304cefbec95"
+  integrity sha512-eBzO74REpkq16o26B/bbkj1bJuR6WPLPz5Zw0/JAafgyJEzqQaagZxORiZ/0u5z4o4frB4CEaHUAhNlRP+vQ9g==
 
 "@types/glob@^7.1.1":
   version "7.2.0"
