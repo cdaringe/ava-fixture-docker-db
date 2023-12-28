@@ -2660,23 +2660,23 @@ dir-glob@^3.0.0, dir-glob@^3.0.1:
   dependencies:
     path-type "^4.0.0"
 
-docker-modem@^5.0.2:
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/docker-modem/-/docker-modem-5.0.2.tgz#d119282d85679a8e7bc788e620093f1348658b5d"
-  integrity sha512-1Nwtxsk3D6CMj7ovGxSj/r3cEw2EVcT4AsAOdKngDVn2mENnRdq5tIgwpjecgdEtPhd7U5Ww39FNzxo8k++ESw==
+docker-modem@^5.0.3:
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/docker-modem/-/docker-modem-5.0.3.tgz#50c06f11285289f58112b5c4c4d89824541c41d0"
+  integrity sha512-89zhop5YVhcPEt5FpUFGr3cDyceGhq/F9J+ZndQ4KfqNvfbJpPMfgeixFgUj5OjCYAboElqODxY5Z1EBsSa6sg==
   dependencies:
     debug "^4.1.1"
     readable-stream "^3.5.0"
     split-ca "^1.0.1"
-    ssh2 "^1.11.0"
+    ssh2 "^1.15.0"
 
 dockerode@^4.0.0:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/dockerode/-/dockerode-4.0.1.tgz#c1d4dad585c14f091a34aed394c63fb67e986c30"
-  integrity sha512-2TGh2Sb/r4X9xVVjtcfDoxIYLYdBI3cFCK1OApLfDW+iNdGWAdHq8wJU/CGqueOTYF1JBflUSFVPy2gw8NAJoA==
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/dockerode/-/dockerode-4.0.2.tgz#dedc8529a1db3ac46d186f5912389899bc309f7d"
+  integrity sha512-9wM1BVpVMFr2Pw3eJNXrYYt6DT9k0xMcsSCjtPvyQ+xa1iPg/Mo3T/gUcwI0B2cczqCeCYRPF8yFYDwtFXT0+w==
   dependencies:
     "@balena/dockerignore" "^1.0.2"
-    docker-modem "^5.0.2"
+    docker-modem "^5.0.3"
     tar-fs "~2.0.1"
 
 doctrine@^3.0.0:
@@ -7625,7 +7625,7 @@ sprintf-js@~1.0.2:
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
   integrity sha1-BOaSb2YolTVPPdAVIDYzuFcpfiw=
 
-ssh2@^1.11.0:
+ssh2@^1.15.0:
   version "1.15.0"
   resolved "https://registry.yarnpkg.com/ssh2/-/ssh2-1.15.0.tgz#2f998455036a7f89e0df5847efb5421748d9871b"
   integrity sha512-C0PHgX4h6lBxYx7hcXwu3QWdh4tg6tZZsTfXcdvc5caW/EMxaB4H9dWsl7qk+F7LAW762hp8VbXOX7x4xUYvEw==
