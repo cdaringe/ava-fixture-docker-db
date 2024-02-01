@@ -8,7 +8,7 @@
   "license": "MIT",
   "devDependencies": {
     "ava": "1.4.1",
-    "husky": "9.0.7",
+    "husky": "9.0.10",
     "lint-staged": "15.2.1",
     "prettier-standard": "16.4.1",
     "semantic-release": "19.0.5",
