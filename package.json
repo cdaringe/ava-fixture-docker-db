@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "dockerode": "^4.0.0",
-    "execa": "^1.0.0",
+    "execa": "^9.0.0",
     "freeport": "^1",
     "lodash": "^4.17.20",
     "@types/dockerode": "^3.0.0",
