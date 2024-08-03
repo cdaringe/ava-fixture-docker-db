@@ -20,7 +20,7 @@
     "freeport": "^1",
     "lodash": "^4.17.20",
     "@types/dockerode": "^3.0.0",
-    "@types/execa": "^0",
+    "@types/execa": "^2.0.0",
     "@types/freeport": "^1",
     "@types/lodash": "^4.14.138"
   },
